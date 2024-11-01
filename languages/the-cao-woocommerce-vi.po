@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Cao WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-09 15:30+0000\n"
+"PO-Revision-Date: 2017-09-09 15:33+0000\n"
+"Last-Translator: admin <support@webbinhdan.com>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: vi_VN\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: the-cao-woocommerce.php:125
+msgid "Note"
+msgstr "Chú ý"
+
+#. Description of the plugin
+msgid ""
+"Add VINA, MOBI, VIETTEL, VTC, GATE... Card Gateways for WooCommerce. Ủng hộ "
+"đặt mua phiên bản <a target=\"_blank\" href=\"http://webbinhdan.com/san-"
+"pham/the-cao-woocommerce-v-pro/\"><strong>The Cao WooCommerce v.Pro</strong>"
+"</a>."
+msgstr ""
+"Thanh toán bằng thẻ cào VINA, MOBI, VIETTEL, VTC, GATE... dành cho "
+"WooCommerce. Ủng hộ đặt mua phiên bản <a target=\"_blank\" href=\"http:"
+"//webbinhdan.com/san-pham/the-cao-woocommerce-v-pro/\"><strong>The Cao "
+"WooCommerce v.Pro</strong></a>."
+
+#: the-cao-woocommerce.php:31 the-cao-woocommerce.php:55
+msgid "Recharge Card"
+msgstr "Thẻ cào"
+
+#: the-cao-woocommerce.php:46
+msgid "Enable/Disable"
+msgstr "Kích hoạt/Hủy"
+
+#: the-cao-woocommerce.php:48
+msgid "Enable Cheque Payment"
+msgstr "Kích hoạt thanh toán"
+
+#: the-cao-woocommerce.php:52
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: the-cao-woocommerce.php:54
+msgid "It show on payment page."
+msgstr "Xuất hiện khi khách hàng thanh toán tại trang thanh toán"
+
+#: the-cao-woocommerce.php:59
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: the-cao-woocommerce.php:61 the-cao-woocommerce.php:67
+msgid "Get when register at Baokim.vn"
+msgstr "Lấy mã khi đăng kí tài khoản tại Baokim.vn"
+
+#: the-cao-woocommerce.php:65
+msgid "API Username"
+msgstr "API Username"
+
+#: the-cao-woocommerce.php:71
+msgid "API Password"
+msgstr "API Password"
+
+#: the-cao-woocommerce.php:73 the-cao-woocommerce.php:79
+msgid "Contact to Baokim.vn support to get it."
+msgstr "Liên hệ với hỗ trợ kỹ thuật của Baokim.vn để lấy mã"
+
+#: the-cao-woocommerce.php:77
+msgid "Secure Code"
+msgstr "Secure Code"
+
+#: the-cao-woocommerce.php:83
+msgid "Customer Message"
+msgstr "Chú thích về hình thức thanh toán cho khách hàng"
+
+#: the-cao-woocommerce.php:85
+msgid "Not required."
+msgstr "Không bắt buộc"
+
+#: the-cao-woocommerce.php:130
+msgid "Card"
+msgstr "Thẻ cào"
+
+#: the-cao-woocommerce.php:142 the-cao-woocommerce.php:143
+msgid "Card Number"
+msgstr "Mã thẻ"
+
+#: the-cao-woocommerce.php:143
+msgid "Number behind the foil layer"
+msgstr "Chữa số dưới lớp giấy bạc"
+
+#: the-cao-woocommerce.php:146 the-cao-woocommerce.php:147
+msgid "Seri Number"
+msgstr "Số seri"
+
+#: the-cao-woocommerce.php:147
+msgid "Number on card"
+msgstr "Số seri in trên thẻ"
+
+#: the-cao-woocommerce.php:309 the-cao-woocommerce.php:339
+#: the-cao-woocommerce.php:360
+msgid ", Card Number: "
+msgstr ", Mã thẻ: "
+
+#: the-cao-woocommerce.php:309 the-cao-woocommerce.php:339
+#: the-cao-woocommerce.php:360
+msgid ", Seri Number: "
+msgstr " , Số seri: "
+
+#: the-cao-woocommerce.php:319
+msgid "Completed"
+msgstr "Hoàn tất"
+
+#: the-cao-woocommerce.php:348
+msgid ""
+"This card does not have enough money for the transaction. Your current "
+"balance:"
+msgstr ""
+"Tiền đã được nạp vào tài khoản nhưng mệnh giá không đủ để thực hiện giao "
+"dịch trên. Số dư hiện tịa là: "
+
+#: the-cao-woocommerce.php:349
+msgid "Please add more money to complete!"
+msgstr "Xin vui lòng nạp thêm thẻ để tiếp tục thực hiện giao dịch"
+
+#: the-cao-woocommerce.php:371
+msgid "Error:"
+msgstr "Lỗi"
+
+#: the-cao-woocommerce.php:372
+msgid "Please check the card again or contact to support about this error!"
+msgstr ""
+"Xin vui lòng kiểm tra lại thẻ hoặc liên hệ với quản lí website để thông báo "
+"và được hướng dẫn cụ thể!"
+
+#: the-cao-woocommerce.php:394 the-cao-woocommerce.php:419
+msgid "Balance"
+msgstr "Số dư"
+
+#: the-cao-woocommerce.php:397 the-cao-woocommerce.php:422
+msgid "Current balance"
+msgstr "Số dư hiện tại"
+
+#: the-cao-woocommerce.php:400
+msgid "Just typing numbers"
+msgstr "Chỉ nhập số"
+
+#: the-cao-woocommerce.php:425
+msgid "Not typing here"
+msgstr "Không nhập dữ liệu"
+
+#. Name of the plugin
+msgid "The Cao WooCommerce"
+msgstr "The Cao WooCommerce"
+
+#. URI of the plugin
+msgid "http://webbinhdan.com"
+msgstr "http://webbinhdan.com"
+
+#. Author of the plugin
+msgid "WebBinhDan.com"
+msgstr "WebBinhDan.com"
